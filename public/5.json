@@ -1,0 +1,10 @@
+{
+    "name":"ajjj",
+    "age":18,
+    "null":null,
+    "bool":true,
+    "obj":{
+        "name":"frank",
+        "age":20
+    }
+}
